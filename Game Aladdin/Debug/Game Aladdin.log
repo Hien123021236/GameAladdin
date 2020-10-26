@@ -1,0 +1,466 @@
+﻿  Aladin.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Aladin.cpp(1601,22): warning C4018: '<': signed/unsigned mismatch
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Aladin.cpp(1686,20): warning C4018: '<': signed/unsigned mismatch
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Aladin.cpp(1795,13): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Aladin.cpp(1796,12): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Aladin.cpp(1797,14): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Aladin.cpp(1798,15): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+  AladinEnd.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+  Animation.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Animation.cpp(173,19): warning C4018: '>=': signed/unsigned mismatch
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Animation.cpp(179,23): warning C4018: '>': signed/unsigned mismatch
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Animation.cpp(180,29): warning C4018: '>': signed/unsigned mismatch
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Animation.cpp(284,44): warning C4018: '<': signed/unsigned mismatch
+  Apple.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Apple.cpp(84,21): warning C4018: '<': signed/unsigned mismatch
+  BackGround2.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+  Bat.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Bat.cpp(4,55): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Bat.cpp(4,40): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Bat.cpp(6,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Bat.cpp(7,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Blood.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+  Bones.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+  Buttress.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Buttress.cpp(5,55): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Buttress.cpp(5,40): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Buttress.cpp(7,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Buttress.cpp(8,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Camera.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Camera.cpp(34,27): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Camera.cpp(35,26): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Camera.cpp(36,31): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Camera.cpp(37,32): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Camera.cpp(48,21): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Camera.cpp(49,21): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Camera.cpp(90,29): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Camera.cpp(92,29): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+  CDraw.cpp
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(11,23): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(12,24): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(60,52): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(61,52): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(119,52): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(120,52): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(259,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(259,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(259,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(259,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(261,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(261,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(261,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(261,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(263,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(263,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(263,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(263,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(265,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(265,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(265,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(265,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(268,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(268,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(268,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(268,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(274,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(274,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(274,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(274,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(276,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(276,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(276,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(276,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(278,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(278,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(278,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(278,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(280,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(280,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(280,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(280,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(283,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(283,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(283,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(283,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(289,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(289,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(289,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(289,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(291,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(291,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(291,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(291,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(293,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(293,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(293,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(293,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(295,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(295,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(295,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(295,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(298,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(298,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(298,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(298,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(306,16): warning C4838: conversion from 'float' to 'LONG' requires a narrowing conversion
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(306,16): warning C4244: 'initializing': conversion from 'float' to 'LONG', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(306,19): warning C4838: conversion from 'float' to 'LONG' requires a narrowing conversion
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(306,19): warning C4244: 'initializing': conversion from 'float' to 'LONG', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(306,22): warning C4838: conversion from 'float' to 'LONG' requires a narrowing conversion
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(306,22): warning C4244: 'initializing': conversion from 'float' to 'LONG', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(306,25): warning C4838: conversion from 'float' to 'LONG' requires a narrowing conversion
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(306,25): warning C4244: 'initializing': conversion from 'float' to 'LONG', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(313,79): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(313,30): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(315,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(315,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(315,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(315,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(321,95): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(321,66): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(321,38): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(321,24): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(323,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(323,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(323,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(323,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(329,95): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(329,66): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(329,38): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(329,24): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(331,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(331,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(331,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\CDraw.cpp(331,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Collision.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Collision.cpp(59,26): warning C4305: '=': truncation from '__int64' to 'float'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Collision.cpp(60,24): warning C4305: '=': truncation from '__int64' to 'float'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Collision.cpp(70,26): warning C4305: '=': truncation from '__int64' to 'float'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Collision.cpp(71,24): warning C4305: '=': truncation from '__int64' to 'float'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Collision.cpp(119,28): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Collision.cpp(120,28): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Collision.cpp(121,28): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Collision.cpp(122,28): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Collision.cpp(129,34): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Collision.cpp(130,34): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Collision.cpp(131,34): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Collision.cpp(132,34): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+  Debug.cpp
+  EndGame.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+  Fire.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+  Floor.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Floor.cpp(5,55): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Floor.cpp(5,40): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Floor.cpp(7,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Floor.cpp(8,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Game.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\TileSet2.h(12,1): warning C4005: 'tileset_wight': macro redefinition
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\TileSet.h(12): message : see previous definition of 'tileset_wight'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\TileSet2.h(13,1): warning C4005: 'titeset_hight': macro redefinition
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\TileSet.h(13): message : see previous definition of 'titeset_hight'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\MapTwo.h(15,1): warning C4005: 'Max_Map_x': macro redefinition
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Map.h(32): message : see previous definition of 'Max_Map_x'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\MapTwo.h(16,1): warning C4005: 'Max_Map_y': macro redefinition
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Map.h(33): message : see previous definition of 'Max_Map_y'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Game.cpp(73,19): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Game.cpp(86,13): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  Genie.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Genie.cpp(5,55): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Genie.cpp(5,40): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Genie.cpp(7,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Genie.cpp(8,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  GUI.cpp
+  Heart.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Heart.cpp(4,55): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Heart.cpp(4,40): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Heart.cpp(6,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Heart.cpp(7,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  ItemApple.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\ItemApple.cpp(5,55): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\ItemApple.cpp(5,40): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\ItemApple.cpp(7,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\ItemApple.cpp(8,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ItemRubi.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\ItemRubi.cpp(5,55): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\ItemRubi.cpp(5,40): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\ItemRubi.cpp(7,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\ItemRubi.cpp(8,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Jab.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Jab.cpp(5,55): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Jab.cpp(5,40): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Jab.cpp(7,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Jab.cpp(8,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  JaFar.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\JaFar.cpp(5,55): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\JaFar.cpp(5,40): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\JaFar.cpp(7,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\JaFar.cpp(8,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\JaFar.cpp(148,45): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\JaFar.cpp(179,44): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+  Keyboard.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+  Leash.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Leash.cpp(5,55): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Leash.cpp(5,40): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Leash.cpp(7,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Leash.cpp(8,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\TileSet2.h(12,1): warning C4005: 'tileset_wight': macro redefinition
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\TileSet.h(12): message : see previous definition of 'tileset_wight'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\TileSet2.h(13,1): warning C4005: 'titeset_hight': macro redefinition
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\TileSet.h(13): message : see previous definition of 'titeset_hight'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\MapTwo.h(15,1): warning C4005: 'Max_Map_x': macro redefinition
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Map.h(32): message : see previous definition of 'Max_Map_x'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\MapTwo.h(16,1): warning C4005: 'Max_Map_y': macro redefinition
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Map.h(33): message : see previous definition of 'Max_Map_y'
+  Map.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Map.cpp(178,16): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Map.cpp(179,17): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Map.cpp(202,38): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Map.cpp(202,23): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Map.cpp(233,24): warning C4018: '<': signed/unsigned mismatch
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Map.cpp(241,20): warning C4018: '<': signed/unsigned mismatch
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Map.cpp(242,25): warning C4018: '<': signed/unsigned mismatch
+  MapTwo.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\MapTwo.cpp(95,16): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\MapTwo.cpp(96,17): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\MapTwo.cpp(119,38): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\MapTwo.cpp(119,23): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\MapTwo.cpp(148,24): warning C4018: '<': signed/unsigned mismatch
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\MapTwo.cpp(156,20): warning C4018: '<': signed/unsigned mismatch
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\MapTwo.cpp(157,25): warning C4018: '<': signed/unsigned mismatch
+  Mission.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Mission.cpp(159,13): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Mission.cpp(160,12): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Mission.cpp(161,14): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Mission.cpp(162,15): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Mission.cpp(169,10): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Mission.cpp(170,10): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Mission.cpp(171,10): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Mission.cpp(172,10): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Mission.cpp(198,20): warning C4018: '<': signed/unsigned mismatch
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Mission.cpp(358,20): warning C4018: '<': signed/unsigned mismatch
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Mission.cpp(637,28): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Mission.cpp(638,28): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Mission.cpp(644,28): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Mission.cpp(645,28): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Mission.cpp(649,13): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Mission.cpp(650,12): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Mission.cpp(651,14): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Mission.cpp(652,15): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+  Mission2.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Mission2.cpp(137,20): warning C4018: '<': signed/unsigned mismatch
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Mission2.cpp(177,22): warning C4018: '<': signed/unsigned mismatch
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Mission2.cpp(181,22): warning C4018: '<': signed/unsigned mismatch
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Mission2.cpp(279,13): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Mission2.cpp(280,12): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Mission2.cpp(281,14): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Mission2.cpp(282,15): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+  NewScreen.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\NewScreen.cpp(5,62): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\NewScreen.cpp(5,40): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\NewScreen.cpp(7,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\NewScreen.cpp(8,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Object.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Object.cpp(71,29): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Object.cpp(72,28): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Object.cpp(73,41): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Object.cpp(74,43): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+  Peddler.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Peddler.cpp(5,55): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Peddler.cpp(5,40): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Peddler.cpp(7,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Peddler.cpp(8,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Pendulum.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Pendulum.cpp(5,55): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Pendulum.cpp(5,40): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Pendulum.cpp(7,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Pendulum.cpp(8,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Pillar.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+  Pillar2.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+  QuadTree.cpp
+  RestartPoint.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\RestartPoint.cpp(5,55): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\RestartPoint.cpp(5,40): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\RestartPoint.cpp(7,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\RestartPoint.cpp(8,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Rock.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Rock.cpp(6,55): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Rock.cpp(6,40): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Rock.cpp(8,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Rock.cpp(9,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  Skeleton.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Skeleton.cpp(6,55): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Skeleton.cpp(6,40): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Skeleton.cpp(7,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Skeleton.cpp(8,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Sound.cpp
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Sound.cpp(70,16): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Sound.cpp(82,16): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Sound.cpp(173,18): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
+  Sprite.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Sprite.cpp(12,24): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Sprite.cpp(13,24): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+  StaffGuard.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\StaffGuard.cpp(5,55): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\StaffGuard.cpp(5,40): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\StaffGuard.cpp(7,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\StaffGuard.cpp(8,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Star.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+  SwordGuard.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\SwordGuard.cpp(5,55): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\SwordGuard.cpp(5,40): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\SwordGuard.cpp(7,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\SwordGuard.cpp(8,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\SwordGuard.cpp(29,41): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\SwordGuard.cpp(31,43): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+  Text.cpp
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Text.cpp(45,25): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Text.cpp(46,41): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+  Texture.cpp
+  TileSet.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\TileSet.cpp(57,21): warning C4018: '<': signed/unsigned mismatch
+  TileSet2.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\TileSet2.cpp(49,21): warning C4018: '<': signed/unsigned mismatch
+  Wood.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Keyboard.h(5,1): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : see previous definition of 'DIRECTINPUT_VERSION'
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Wood.cpp(4,55): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Wood.cpp(4,40): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Wood.cpp(6,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Game Aladdin\Wood.cpp(7,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Game Aladdin.vcxproj -> H:\Game Aladdin - FINAL\Game Aladdin - FINAL\Game Aladdin\Debug\Game Aladdin.exe

@@ -1,0 +1,138 @@
+﻿  Aladin.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\keyboard.h(5): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+  Animation.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\keyboard.h(5): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\animation.cpp(45): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Camera.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\keyboard.h(5): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\camera.cpp(34): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\camera.cpp(35): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\camera.cpp(36): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\camera.cpp(37): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\camera.cpp(48): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\camera.cpp(49): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\camera.cpp(89): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\camera.cpp(91): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+  CDraw.cpp
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\cdraw.cpp(11): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\cdraw.cpp(12): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\cdraw.cpp(259): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\cdraw.cpp(261): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\cdraw.cpp(263): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\cdraw.cpp(265): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\cdraw.cpp(268): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\cdraw.cpp(274): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\cdraw.cpp(276): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\cdraw.cpp(278): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\cdraw.cpp(280): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\cdraw.cpp(283): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\cdraw.cpp(289): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\cdraw.cpp(291): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\cdraw.cpp(293): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\cdraw.cpp(295): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\cdraw.cpp(298): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\cdraw.cpp(306): warning C4838: conversion from 'float' to 'LONG' requires a narrowing conversion
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\cdraw.cpp(306): warning C4244: 'initializing': conversion from 'float' to 'LONG', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\cdraw.cpp(313): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\cdraw.cpp(315): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\cdraw.cpp(321): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\cdraw.cpp(323): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\cdraw.cpp(329): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\cdraw.cpp(331): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Debug.cpp
+  Game.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\keyboard.h(5): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\game.cpp(63): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\game.cpp(76): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  Keyboard.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\keyboard.h(5): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\keyboard.cpp(13): error C2065: 'GWL_HINSTANCE': undeclared identifier
+  main.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\keyboard.h(5): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+  Map.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\keyboard.h(5): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\map.cpp(23): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\map.cpp(24): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\map.cpp(43): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\map.cpp(44): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\map.cpp(45): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\map.cpp(46): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\map.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\map.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\map.cpp(101): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\map.cpp(102): warning C4244: 'argument': conversion from 'LONG' to 'FLOAT', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\map.cpp(110): warning C4244: 'argument': conversion from 'LONG' to 'FLOAT', possible loss of data
+  Object.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\keyboard.h(5): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\object.cpp(53): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\object.cpp(54): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\object.cpp(55): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\object.cpp(56): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+  QuadTree.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\keyboard.h(5): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\quadtree.cpp(36): warning C4244: 'argument': conversion from 'FLOAT' to 'long', possible loss of data
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\xutility(2414): error C2440: '=': cannot convert from 'const int' to 'Object *'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\xutility(2414): note: Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\xutility(2434): note: see reference to function template instantiation '_OutIt std::_Copy_unchecked1<_InIt,_OutIt>(_InIt,_InIt,_OutIt,std::_General_ptr_iterator_tag)' being compiled
+          with
+          [
+              _OutIt=Object **,
+              _InIt=std::_Tree_unchecked_const_iterator<std::_Tree_val<std::_Tree_simple_types<int>>,std::_Iterator_base0>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\vector(1372): note: see reference to function template instantiation '_OutIt **std::_Copy_unchecked<_Iter,Object**>(_InIt,_InIt,_OutIt)' being compiled
+          with
+          [
+              _OutIt=Object **,
+              _Iter=std::_Tree_unchecked_const_iterator<std::_Tree_val<std::_Tree_simple_types<int>>,std::_Iterator_base0>,
+              _InIt=std::_Tree_unchecked_const_iterator<std::_Tree_val<std::_Tree_simple_types<int>>,std::_Iterator_base0>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\vector(1390): note: see reference to function template instantiation 'void std::vector<LPOBJECT,std::allocator<_Ty>>::_Assign_range<std::_Tree_unchecked_const_iterator<std::_Tree_val<std::_Tree_simple_types<int>>,std::_Iterator_base0>>(_Iter,_Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Ty=LPOBJECT,
+              _Iter=std::_Tree_unchecked_const_iterator<std::_Tree_val<std::_Tree_simple_types<int>>,std::_Iterator_base0>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\vector(1390): note: see reference to function template instantiation 'void std::vector<LPOBJECT,std::allocator<_Ty>>::_Assign_range<std::_Tree_unchecked_const_iterator<std::_Tree_val<std::_Tree_simple_types<int>>,std::_Iterator_base0>>(_Iter,_Iter,std::forward_iterator_tag)' being compiled
+          with
+          [
+              _Ty=LPOBJECT,
+              _Iter=std::_Tree_unchecked_const_iterator<std::_Tree_val<std::_Tree_simple_types<int>>,std::_Iterator_base0>
+          ]
+  c:\users\ngoc hien\source\repos\game aladdin\game aladdin\quadtree.cpp(28): note: see reference to function template instantiation 'void std::vector<LPOBJECT,std::allocator<_Ty>>::assign<std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<int>>>,void>(_Iter,_Iter)' being compiled
+          with
+          [
+              _Ty=LPOBJECT,
+              _Iter=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<int>>>
+          ]
+  c:\users\ngoc hien\source\repos\game aladdin\game aladdin\quadtree.cpp(28): note: see reference to function template instantiation 'void std::vector<LPOBJECT,std::allocator<_Ty>>::assign<std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<int>>>,void>(_Iter,_Iter)' being compiled
+          with
+          [
+              _Ty=LPOBJECT,
+              _Iter=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<int>>>
+          ]
+  Sprite.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\keyboard.h(5): warning C4005: 'DIRECTINPUT_VERSION': macro redefinition
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h(42): note: see previous definition of 'DIRECTINPUT_VERSION'
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\sprite.cpp(12): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\ngoc hien\source\repos\game aladdin\game aladdin\sprite.cpp(13): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+  Texture.cpp
+  Generating Code...
